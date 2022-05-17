@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
   
-                        -- Lượng Sâu Sắc
+-- Lượng Sâu Sắc
 
 <!---
 thanhpnvietis/thanhpnvietis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
