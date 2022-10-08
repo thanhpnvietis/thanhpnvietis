@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-- Làm sao kiếm được nhiều tiền ?
+<!-- - Làm sao kiếm được nhiều tiền ?
 - Làm sao kiếm được tên miền thật ngon ?
 - Làm sao giấc ngủ cho tròn ?
 - Làm sao khi chết vẫn còn lưu danh ?
@@ -15,7 +15,7 @@
 - Làm sao cứ mãi trêu hoa ?
 - Làm sao biết được người ta yêu mình?
 - Làm sao biết cách tỏ tình ?
-- Làm sao biết được rằng mình đang yêu ?
+- Làm sao biết được rằng mình đang yêu ? -->
 
 
 -- Lượng Sầu Đời
